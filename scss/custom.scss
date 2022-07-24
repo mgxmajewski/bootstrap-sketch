@@ -5,6 +5,15 @@
 @import "../node_modules/bootstrap/scss/functions";
 
 // 2. Include any default variable overrides here
+//$body-bg: #000;
+//$navbar-color: #d2d200;
+//$body-color: #111;
+//$bs-navbar-color: red;
+//$link-color: #62ff00;
+//$nav-link-color: pink;
+//$bs-nav-color: red;
+//$bs-navbar-color: pink;
+$navbar-dark-color: pink;
 
 // 3. Include remainder of required Bootstrap stylesheets
 @import "../node_modules/bootstrap/scss/variables";
@@ -33,4 +42,15 @@
 @import "../node_modules/bootstrap/scss/utilities/api";
 
 // 8. Add additional custom code here
-$body-bg: #903232;
+//$navbar-color: pink;
+//$navbar-color: #d2d200;
+//.navbar-dark{
+//  --bs-navbar-color: pink;
+//}
+
+
+//$nav-link-color: pink;
+
+//.nav-link{
+//  color: chocolate;
+//}
